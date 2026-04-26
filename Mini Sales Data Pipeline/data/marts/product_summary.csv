@@ -1,0 +1,21 @@
+product_id,product_name,category,quantity_sold,net_sales,profit
+P001,Accessories Item 1,Accessories,43,4162.0575,2043.4475
+P002,Electronics Item 2,Electronics,57,13562.511,5126.511
+P003,Electronics Item 3,Electronics,74,25584.996000000003,6442.676
+P004,Fitness Item 4,Uncategorized,68,5358.375,1661.8950000000002
+P005,Stationery Item 5,Stationery,66,1131.444,551.304
+P006,Electronics Item 6,Electronics,62,34696.935,8656.935000000001
+P007,Electronics Item 7,Electronics,31,15630.635999999999,7117.415999999998
+P008,Fitness Item 8,Fitness,70,10336.095000000001,-1087.9049999999988
+P009,Electronics Item 9,Electronics,63,21226.608,5484.168000000001
+P010,Fitness Item 10,Fitness,72,20222.1495,6791.269500000002
+P011,Stationery Item 11,Stationery,82,2011.2445000000002,609.8645000000002
+P012,Fitness Item 12,Fitness,72,9577.259,2027.3390000000006
+P013,Stationery Item 13,Stationery,68,2349.38,692.2200000000001
+P014,Stationery Item 14,Stationery,48,880.3199999999999,243.35999999999996
+P015,Home Item 15,Home,63,11858.331,4320.381
+P016,Accessories Item 16,Accessories,63,2596.9275,1290.3075000000001
+P017,Home Item 17,Home,44,3242.592,1358.0720000000003
+P018,Fitness Item 18,Fitness,59,2903.736,1391.566
+P019,Stationery Item 19,Stationery,74,1998.9959999999999,594.4759999999999
+P020,Electronics Item 20,Electronics,56,18149.592,7695.512

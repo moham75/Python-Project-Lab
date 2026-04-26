@@ -1,0 +1,81 @@
+customer_id,customer_name,email,city,segment,signup_date
+C0001,Nour Hassan,nour.hassan1@example.com,Jeddah,New,2025-10-27
+C0002,Ramy Ali,ramy.ali2@example.com,Unknown,New,2025-11-29
+C0003,Nada Farouk,nada.farouk3@example.com,Cairo,Returning,2026-02-17
+C0004,Tarek Mahmoud,tarek.mahmoud4@example.com,Abu Dhabi,Returning,2025-10-02
+C0005,Sara Mansour,sara.mansour5@example.com,Dubai,New,2025-12-26
+C0006,Nour Ali,nour.ali6@example.com,Dubai,Returning,2026-03-04
+C0007,Hana Saleh,hana.saleh7@example.com,Cairo,Returning,2026-01-05
+C0008,Youssef Kamal,youssef.kamal8@example.com,Jeddah,Returning,2026-01-01
+C0009,Mona Mahmoud,mona.mahmoud9@example.com,Unknown,New,2025-12-14
+C0010,Youssef Younis,youssef.younis10@example.com,Riyadh,New,2026-01-25
+C0011,Ali Ibrahim,ali.ibrahim11@example.com,Dammam,Returning,2026-03-15
+C0012,Youssef Farouk,youssef.farouk12@example.com,Giza,New,2026-01-27
+C0013,Dina Sayed,dina.sayed13@example.com,Riyadh,Returning,2025-10-15
+C0014,Karim Younis,karim.younis14@example.com,Cairo,New,2025-10-17
+C0015,Laila Farouk,laila.farouk15@example.com,Dammam,Returning,2026-03-14
+C0016,Salma Ibrahim,salma.ibrahim16@example.com,Jeddah,Returning,2026-02-15
+C0017,Hana Mansour,hana.mansour17@example.com,Dubai,New,2025-11-26
+C0018,Ahmed Kamal,ahmed.kamal18@example.com,Abu Dhabi,New,2025-10-29
+C0019,Ahmed Samir,ahmed.samir19@example.com,Giza,New,2025-10-17
+C0020,Dina Fathy,dina.fathy20@example.com,Abu Dhabi,VIP,2025-10-03
+C0021,Nour Samir,nour.samir21@example.com,Jeddah,New,2025-12-15
+C0022,Tarek Ibrahim,tarek.ibrahim22@example.com,Unknown,Returning,2025-12-07
+C0023,Nada Saleh,nada.saleh23@example.com,Giza,New,2026-03-10
+C0024,Mostafa Younis,mostafa.younis24@example.com,Riyadh,Returning,2026-02-16
+C0025,Nada Hassan,nada.hassan25@example.com,Dammam,New,2026-01-01
+C0026,Mostafa Mahmoud,mostafa.mahmoud26@example.com,Cairo,Returning,2025-10-21
+C0027,Youssef Mansour,youssef.mansour27@example.com,Abu Dhabi,VIP,2026-02-14
+C0028,Ahmed Ibrahim,ahmed.ibrahim28@example.com,Abu Dhabi,New,2026-02-13
+C0029,Khaled Fathy,khaled.fathy29@example.com,Riyadh,Returning,2025-11-21
+C0030,Mostafa Fathy,mostafa.fathy30@example.com,Dammam,Returning,2025-10-31
+C0031,Karim Mahmoud,karim.mahmoud31@example.com,Alexandria,Returning,2025-11-28
+C0032,Mona Mahmoud,mona.mahmoud32@example.com,Cairo,Returning,2025-11-28
+C0033,Youssef Hassan,youssef.hassan33@example.com,Dammam,New,2026-02-02
+C0034,Laila Kamal,laila.kamal34@example.com,Giza,VIP,2026-02-25
+C0035,Hassan Mahmoud,hassan.mahmoud35@example.com,Abu Dhabi,New,2025-10-25
+C0036,Tarek Nabil,tarek.nabil36@example.com,Dubai,VIP,2025-10-14
+C0037,Nour Hassan,nour.hassan37@example.com,Dubai,Returning,2025-10-28
+C0038,Karim Mahmoud,karim.mahmoud38@example.com,Riyadh,New,2025-11-16
+C0039,Hana Adel,hana.adel39@example.com,Riyadh,New,2026-02-18
+C0040,Nour Hassan,nour.hassan40@example.com,Cairo,VIP,2025-11-30
+C0041,Sara Fathy,sara.fathy41@example.com,Abu Dhabi,VIP,2025-10-16
+C0042,Sara Fathy,sara.fathy42@example.com,Cairo,New,2026-01-25
+C0043,Mostafa Fathy,mostafa.fathy43@example.com,Abu Dhabi,New,2025-10-15
+C0044,Mona Mansour,mona.mansour44@example.com,Cairo,New,2026-02-27
+C0045,Hassan Kamal,hassan.kamal45@example.com,Unknown,Returning,2025-11-17
+C0046,Youssef Farouk,youssef.farouk46@example.com,Alexandria,New,2025-10-31
+C0047,Mona Mahmoud,mona.mahmoud47@example.com,Cairo,New,2026-02-27
+C0048,Mona Kamal,mona.kamal48@example.com,Dammam,New,2025-12-20
+C0049,Karim Sayed,karim.sayed49@example.com,Dubai,Returning,2026-01-26
+C0050,Farah Saleh,farah.saleh50@example.com,Unknown,Returning,2026-02-22
+C0051,Nour Ali,nour.ali51@example.com,Riyadh,New,2025-12-29
+C0052,Youssef Mahmoud,youssef.mahmoud52@example.com,Dammam,New,2026-02-17
+C0053,Mostafa Farouk,mostafa.farouk53@example.com,Cairo,Returning,2026-03-19
+C0054,Nour Ibrahim,nour.ibrahim54@example.com,Jeddah,New,2026-02-19
+C0055,Ahmed Sayed,ahmed.sayed55@example.com,Jeddah,Returning,2025-11-22
+C0056,Hana Kamal,hana.kamal56@example.com,Abu Dhabi,VIP,2025-10-14
+C0057,Youssef Samir,youssef.samir57@example.com,Dubai,New,2025-12-25
+C0058,Ahmed Samir,ahmed.samir58@example.com,Jeddah,New,2026-01-18
+C0059,Ramy Hassan,ramy.hassan59@example.com,Alexandria,VIP,2025-11-08
+C0060,Ramy Hassan,ramy.hassan60@example.com,Dammam,New,2025-11-02
+C0061,Mariam Sayed,mariam.sayed61@example.com,Dammam,Returning,2025-10-11
+C0062,Ali Mahmoud,ali.mahmoud62@example.com,Riyadh,New,2026-02-21
+C0063,Tarek Farouk,tarek.farouk63@example.com,Giza,New,2025-11-11
+C0064,Sara Fathy,sara.fathy64@example.com,Cairo,VIP,2026-01-14
+C0065,Karim Sayed,karim.sayed65@example.com,Giza,New,2025-10-10
+C0066,Hassan Mahmoud,hassan.mahmoud66@example.com,Riyadh,Returning,2025-12-18
+C0067,Karim Mahmoud,karim.mahmoud67@example.com,Cairo,New,2025-12-11
+C0068,Youssef Saleh,youssef.saleh68@example.com,Jeddah,Returning,2026-02-15
+C0069,Farah Hassan,farah.hassan69@example.com,Alexandria,New,2026-02-26
+C0070,Hana Hassan,hana.hassan70@example.com,Alexandria,New,2025-12-20
+C0071,Tarek Farouk,tarek.farouk71@example.com,Alexandria,Returning,2025-12-05
+C0072,Mariam Mansour,mariam.mansour72@example.com,Unknown,VIP,2026-02-15
+C0073,Laila Nabil,laila.nabil73@example.com,Dubai,Returning,2025-12-24
+C0074,Khaled Nabil,khaled.nabil74@example.com,Alexandria,New,2025-12-19
+C0075,Tarek Nabil,tarek.nabil75@example.com,Dubai,Returning,2025-11-19
+C0076,Tarek Samir,tarek.samir76@example.com,Dubai,VIP,2026-03-07
+C0077,Mona Sayed,mona.sayed77@example.com,Dubai,New,2025-12-13
+C0078,Laila Fathy,laila.fathy78@example.com,Dammam,New,2025-11-24
+C0079,Nada Adel,nada.adel79@example.com,Giza,New,2026-03-19
+C0080,Khaled Nabil,khaled.nabil80@example.com,Alexandria,Returning,2025-12-19

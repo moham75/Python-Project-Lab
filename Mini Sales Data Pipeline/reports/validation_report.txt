@@ -1,0 +1,10 @@
+Validation Report
+-----------------
+Duplicate customers: 1
+Missing customer cities: 6
+Products with missing category: 1
+Products where cost > price: 1
+Invalid order dates: 1
+Orders with invalid customer_id: 1
+Invalid item quantities: 5
+Items with invalid product_id: 1
