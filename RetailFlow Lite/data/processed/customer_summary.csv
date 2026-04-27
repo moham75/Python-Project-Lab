@@ -1,0 +1,11 @@
+customer_id,customer_name,city,total_orders,total_spent,total_profit,customer_segment
+C001,Mona Ali,Cairo,4,3080.0,1380.0,High Value
+C002,Omar Hassan,Alexandria,4,1844.5,754.5,High Value
+C003,Nour Samir,Giza,3,2895.0,1105.0,High Value
+C004,Youssef Adel,Mansoura,3,2270.0,1020.0,High Value
+C005,Salma Nabil,Unknown,2,1260.0,460.0,Medium Value
+C006,Karim Fathy,Cairo,4,2990.0,1360.0,High Value
+C007,Laila Mostafa,Tanta,2,1100.0,525.0,Medium Value
+C008,Hana Sherif,Aswan,1,1300.0,600.0,Medium Value
+C009,Ahmed Tarek,Luxor,3,3230.0,1370.0,High Value
+C010,Farah Emad,Cairo,2,880.0,420.0,Medium Value

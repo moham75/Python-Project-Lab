@@ -1,0 +1,6 @@
+category,total_orders,total_quantity,net_sales,total_profit,profit_margin
+Accessories,10,20.0,7257.5,2987.5,0.4116431277988288
+Electronics,8,11.0,7545.0,3095.0,0.41020543406229293
+Home Office,3,3.0,1595.0,695.0,0.43573667711598746
+Stationery,4,35.0,3150.0,1575.0,0.5
+Uncategorized,3,11.0,1302.0,642.0,0.4930875576036866

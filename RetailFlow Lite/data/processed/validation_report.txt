@@ -1,0 +1,9 @@
+Validation Report
+-----------------
+
+Total raw orders: 37
+Total valid orders: 34
+Total removed duplicate orders: 1
+Total removed invalid quantity rows: 2
+Total orders with missing product_id: 0
+Total orders with invalid product_id: 1

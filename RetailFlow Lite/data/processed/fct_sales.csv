@@ -1,0 +1,34 @@
+order_id,order_date,customer_id,product_id,quantity,order_status,payment_method,discount_percent,customer_name,city,signup_date,product_name,category,unit_cost,unit_price,month,gross_sales,discount_amount,net_sales,total_cost,profit,profit_margin
+O1001,2026-01-03,C001,P001,2.0,Completed,Card,0,Mona Ali,Cairo,2025-11-02,Wireless Mouse,Accessories,180,300,2026-01-01,600.0,0.0,600.0,360.0,240.0,0.4
+O1002,2026-01-04,C002,P003,3.0,Completed,Cash,5,Omar Hassan,Alexandria,2025-11-15,USB-C Cable,Uncategorized,60,120,2026-01-01,360.0,18.0,342.0,180.0,162.0,0.47368421052631576
+O1003,2026-01-06,C003,P006,1.0,Completed,Wallet,0,Nour Samir,Giza,2025-12-01,Headset,Electronics,350,650,2026-01-01,650.0,0.0,650.0,350.0,300.0,0.46153846153846156
+O1004,2026-01-08,C004,P002,2.0,Cancelled,Card,0,Youssef Adel,Mansoura,2025-12-12,Keyboard,Accessories,250,450,2026-01-01,900.0,0.0,900.0,500.0,400.0,0.4444444444444444
+O1005,2026-01-10,C005,P008,1.0,Completed,Card,10,Salma Nabil,Unknown,2026-01-04,Desk Lamp,Home Office,300,550,2026-01-01,550.0,55.0,495.0,300.0,195.0,0.3939393939393939
+O1006,2026-01-13,C006,P004,2.0,Completed,Wallet,0,Karim Fathy,Cairo,2026-01-09,Laptop Stand,Accessories,220,400,2026-01-01,800.0,0.0,800.0,440.0,360.0,0.45
+O1007,2026-01-15,C007,P007,5.0,Completed,Cash,0,Laila Mostafa,Tanta,2026-01-16,Notebook Pack,Stationery,45,90,2026-01-01,450.0,0.0,450.0,225.0,225.0,0.5
+O1008,2026-01-17,C008,P005,1.0,Refunded,Card,0,Hana Sherif,Aswan,2026-01-22,Webcam,Electronics,500,850,2026-01-01,850.0,0.0,850.0,500.0,350.0,0.4117647058823529
+O1009,2026-01-19,C009,P006,2.0,Completed,Wallet,5,Ahmed Tarek,Luxor,2026-02-03,Headset,Electronics,350,650,2026-01-01,1300.0,65.0,1235.0,700.0,535.0,0.4331983805668016
+O1010,2026-01-20,C010,P003,4.0,Completed,Card,0,Farah Emad,Cairo,2026-02-10,USB-C Cable,Uncategorized,60,120,2026-01-01,480.0,0.0,480.0,240.0,240.0,0.5
+O1011,2026-01-22,C001,P008,1.0,Completed,Cash,0,Mona Ali,Cairo,2025-11-02,Desk Lamp,Home Office,300,550,2026-01-01,550.0,0.0,550.0,300.0,250.0,0.45454545454545453
+O1012,2026-01-24,C002,P002,1.0,Completed,Card,15,Omar Hassan,Alexandria,2025-11-15,Keyboard,Accessories,250,450,2026-01-01,450.0,67.5,382.5,250.0,132.5,0.3464052287581699
+O1013,2026-01-27,C003,P004,2.0,Completed,Wallet,0,Nour Samir,Giza,2025-12-01,Laptop Stand,Accessories,220,400,2026-01-01,800.0,0.0,800.0,440.0,360.0,0.45
+O1014,2026-02-01,C004,P001,3.0,Completed,Card,0,Youssef Adel,Mansoura,2025-12-12,Wireless Mouse,Accessories,180,300,2026-02-01,900.0,0.0,900.0,540.0,360.0,0.4
+O1015,2026-02-03,C005,P005,1.0,Completed,Wallet,10,Salma Nabil,Unknown,2026-01-04,Webcam,Electronics,500,850,2026-02-01,850.0,85.0,765.0,500.0,265.0,0.3464052287581699
+O1016,2026-02-04,C006,P007,10.0,Completed,Cash,0,Karim Fathy,Cairo,2026-01-09,Notebook Pack,Stationery,45,90,2026-02-01,900.0,0.0,900.0,450.0,450.0,0.5
+O1017,2026-02-06,C007,P006,1.0,Completed,Card,0,Laila Mostafa,Tanta,2026-01-16,Headset,Electronics,350,650,2026-02-01,650.0,0.0,650.0,350.0,300.0,0.46153846153846156
+O1018,2026-02-08,C008,P003,6.0,Cancelled,Wallet,0,Hana Sherif,Aswan,2026-01-22,USB-C Cable,Uncategorized,60,120,2026-02-01,720.0,0.0,720.0,360.0,360.0,0.5
+O1019,2026-02-10,C009,P002,2.0,Completed,Cash,5,Ahmed Tarek,Luxor,2026-02-03,Keyboard,Accessories,250,450,2026-02-01,900.0,45.0,855.0,500.0,355.0,0.4152046783625731
+O1020,2026-02-11,C010,P004,1.0,Completed,Card,0,Farah Emad,Cairo,2026-02-10,Laptop Stand,Accessories,220,400,2026-02-01,400.0,0.0,400.0,220.0,180.0,0.45
+O1021,2026-02-14,C001,P005,1.0,Completed,Wallet,0,Mona Ali,Cairo,2025-11-02,Webcam,Electronics,500,850,2026-02-01,850.0,0.0,850.0,500.0,350.0,0.4117647058823529
+O1022,2026-02-16,C002,P001,2.0,Completed,Card,5,Omar Hassan,Alexandria,2025-11-15,Wireless Mouse,Accessories,180,300,2026-02-01,600.0,30.0,570.0,360.0,210.0,0.3684210526315789
+O1023,2026-02-18,C003,P008,2.0,Refunded,Cash,0,Nour Samir,Giza,2025-12-01,Desk Lamp,Home Office,300,550,2026-02-01,1100.0,0.0,1100.0,600.0,500.0,0.45454545454545453
+O1024,2026-02-21,C004,P007,8.0,Completed,Card,0,Youssef Adel,Mansoura,2025-12-12,Notebook Pack,Stationery,45,90,2026-02-01,720.0,0.0,720.0,360.0,360.0,0.5
+O1026,2026-03-01,C006,P002,2.0,Completed,Card,10,Karim Fathy,Cairo,2026-01-09,Keyboard,Accessories,250,450,2026-03-01,900.0,90.0,810.0,500.0,310.0,0.38271604938271603
+O1028,2026-03-05,C008,P006,2.0,Completed,Wallet,0,Hana Sherif,Aswan,2026-01-22,Headset,Electronics,350,650,2026-03-01,1300.0,0.0,1300.0,700.0,600.0,0.46153846153846156
+O1029,2026-03-07,C009,P004,3.0,Completed,Card,5,Ahmed Tarek,Luxor,2026-02-03,Laptop Stand,Accessories,220,400,2026-03-01,1200.0,60.0,1140.0,660.0,480.0,0.42105263157894735
+O1030,2026-03-09,C010,P001,1.0,Cancelled,Cash,0,Farah Emad,Cairo,2026-02-10,Wireless Mouse,Accessories,180,300,2026-03-01,300.0,0.0,300.0,180.0,120.0,0.4
+O1031,2026-03-12,C001,P007,12.0,Completed,Card,0,Mona Ali,Cairo,2025-11-02,Notebook Pack,Stationery,45,90,2026-03-01,1080.0,0.0,1080.0,540.0,540.0,0.5
+O1032,2026-03-15,C002,P008,1.0,Completed,Wallet,0,Omar Hassan,Alexandria,2025-11-15,Desk Lamp,Home Office,300,550,2026-03-01,550.0,0.0,550.0,300.0,250.0,0.45454545454545453
+O1033,2026-03-18,C003,P005,2.0,Completed,Card,15,Nour Samir,Giza,2025-12-01,Webcam,Electronics,500,850,2026-03-01,1700.0,255.0,1445.0,1000.0,445.0,0.3079584775086505
+O1034,2026-03-21,C004,P006,1.0,Completed,Cash,0,Youssef Adel,Mansoura,2025-12-12,Headset,Electronics,350,650,2026-03-01,650.0,0.0,650.0,350.0,300.0,0.46153846153846156
+O1036,2026-03-26,C006,P003,4.0,Completed,Card,0,Karim Fathy,Cairo,2026-01-09,USB-C Cable,Uncategorized,60,120,2026-03-01,480.0,0.0,480.0,240.0,240.0,0.5

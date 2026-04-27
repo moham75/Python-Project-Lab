@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_cost,unit_price
+P001,Wireless Mouse,Accessories,180,300
+P002,Keyboard,Accessories,250,450
+P003,USB-C Cable,,60,120
+P004,Laptop Stand,Accessories,220,400
+P005,Webcam,Electronics,500,850
+P006,Headset,Electronics,350,650
+P007,Notebook Pack,Stationery,45,90
+P008,Desk Lamp,Home Office,300,550

@@ -1,0 +1,11 @@
+customer_id,customer_name,city,signup_date
+C001,Mona Ali,Cairo,2025-11-02
+C002,Omar Hassan,Alexandria,2025-11-15
+C003,Nour Samir,Giza,2025-12-01
+C004,Youssef Adel,Mansoura,2025-12-12
+C005,Salma Nabil,Unknown,2026-01-04
+C006,Karim Fathy,Cairo,2026-01-09
+C007,Laila Mostafa,Tanta,2026-01-16
+C008,Hana Sherif,Aswan,2026-01-22
+C009,Ahmed Tarek,Luxor,2026-02-03
+C010,Farah Emad,Cairo,2026-02-10
